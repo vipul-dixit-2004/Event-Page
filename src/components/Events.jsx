@@ -19,7 +19,7 @@ function Events() {
       {/* A little about */}
       <div className="md:h-screen min-h-[500px] flex flex-col w-[100%] items-center justify-evenly px-4 md:flex-row ">
         <div className="md:w-1/2 md:px-3">
-          <div className="bg-[url('imagebg.gif')] bg-cover bg-no-repeat">
+          <div className="bg-[url('/Event-Page/imagebg.gif')] bg-cover bg-no-repeat">
             <img
               className=""
               src="https://www.fathom.events/wp-content/uploads/2019/08/white-cover6.png"
