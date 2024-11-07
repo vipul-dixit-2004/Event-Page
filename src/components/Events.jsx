@@ -14,7 +14,7 @@ function Events() {
           <source src="bg_events.mp4" type="video/mp4" />
         </video>
         <img src="Events.png" />
-        <img src="Events.png" />
+        {/* <img src="Events.png" /> */}
       </div>
       {/* A little about */}
       <div className="md:h-screen min-h-[500px] flex flex-col w-[100%] items-center justify-evenly px-4 md:flex-row ">
